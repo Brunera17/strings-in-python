@@ -1,7 +1,7 @@
 <h1>
     Caracteres especiais:
 </h1>
-<p>
+<lo>
     . = corresponde a qualquer caracter, exceto nova linha
     \d = corresponde a qualquer digito (0-9)
     \D = corresponde a qualquer caractere que não seja um dígito
@@ -9,7 +9,7 @@
     \W = corresponde a qualquer caractere que não seja alfanúmerico
     \s = corresponde a qualquer espaço em branco (espaço, tabulações, etc.)
     \S = corresponde a qualquer caractere que não seja espaço em branco
-</p>
+</lo>
 <h1>
     Classes de caracteres:
 </h1>
